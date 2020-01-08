@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "files": ["*.ts", "*.html", "*.json"],
+      "options": {
+        "useTabs": false,
+        "jsxSingleQuote": true,
+        "singleQuote": true,
+        "tabWidth": 4,
+        "printWidth": 155
+      }
+    }
+  ]
+}

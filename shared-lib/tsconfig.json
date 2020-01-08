@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "moduleResolution": "node",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "declaration": true,
+        "declarationMap": true,
+        "importHelpers": true,
+        "rootDir": ".",
+        "target": "es2020",
+        "composite": true,
+        "paths": {
+            "@lib/*": ["src/*"]
+        }
+    },
+    "references": []
+}
